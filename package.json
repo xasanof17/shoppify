@@ -1,6 +1,7 @@
 {
-  "name": "project_syncfusion_dashboard",
+  "name": "shoppify",
   "version": "0.1.0",
+  "author": "Xasanov Javohir <xasanof17@gmail.com>",
   "private": true,
   "dependencies": {
     "@syncfusion/ej2": "^19.4.48",
